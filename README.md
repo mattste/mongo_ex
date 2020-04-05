@@ -1,6 +1,6 @@
 # MongoEx
 
-**TODO: Add description**
+MongoDB adapter for Ecto, the database wrapper and query generator for Elixir. Utilizes complex abstract syntax tree transformations to map from Ecto query code to a document-based database.
 
 ## Installation
 
